@@ -39,3 +39,43 @@ services:
     build: .
     ports:
       - 80:80
+  areyouok10:
+    build: .
+    ports:
+      - 80:80
+  areyouok11:
+    build: .
+    ports:
+      - 80:80
+  areyouok12:
+    build: .
+    ports:
+      - 80:80
+  areyouok13:
+    build: .
+    ports:
+      - 80:80
+  areyouok14:
+    build: .
+    ports:
+      - 80:80
+  areyouok15:
+    build: .
+    ports:
+      - 80:80
+  areyouok16:
+    build: .
+    ports:
+      - 80:80
+  areyouok17:
+    build: .
+    ports:
+      - 80:80
+  areyouok18:
+    build: .
+    ports:
+      - 80:80
+  areyouok19:
+    build: .
+    ports:
+      - 80:80
