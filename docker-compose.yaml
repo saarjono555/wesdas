@@ -1,41 +1,41 @@
 services:
-  website:
+  areyouok:
     build: .
     ports:
       - 80:80
-  website1:
+areyouok1:
     build: .
     ports:
       - 80:80
-  website2:
+areyouok2:
     build: .
     ports:
       - 80:80
-   website3:
+areyouok3:
     build: .
     ports:
       - 80:80
-  website4:
+areyouok4:
     build: .
     ports:
       - 80:80
-  website5:
+areyouok5:
     build: .
     ports:
       - 80:80
- website6:
+areyouok6:
     build: .
     ports:
       - 80:80
-  website7:
+areyouok7:
     build: .
     ports:
       - 80:80
-  website8:
+areyouok8:
     build: .
     ports:
       - 80:80
-   website9:
+areyouok9:
     build: .
     ports:
       - 80:80
